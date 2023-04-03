@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Verdana, sans-serif;
+  }
+  
+  main {
+    text-align: center;
+    background-color: #eee;
+    border-radius: 5px;
+    margin: 40px 20px;
+    padding: 10px;
+  }
+  
+  figure {
+    background-color: white;
+  }
+  
+  figure img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  #timeline {
+    width: 50%;
+    margin: 0 auto;
+    padding: 0;
+    text-align: left;
+  }
+  
+  #quote-container {
+    width: 50%;
+    margin: 40px auto;
+    text-align: left;
+  }
